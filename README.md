@@ -8,7 +8,7 @@ Introducing our innovative Weather Web App, a dynamic tool crafted using HTML, C
 ```bash
 
 # Clone this repository
-git clone https://github.com/viharasenindu/weather
+git clone https://github.com/vihara-senindu/weather
 
 ```
 ## Language & Technology Used 
