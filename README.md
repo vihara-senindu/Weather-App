@@ -19,4 +19,4 @@ git clone https://github.com/vihara-senindu/weather
 - [Weather API](https://openweathermap.org/)
 
 ## Developer
-- [Creator](https://github.com/ViharaSenindu)
+- [Creator](https://github.com/Vihara-Senindu)
